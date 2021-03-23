@@ -26,6 +26,18 @@
  paypal.client.secret=  
 
  
+   // Sandbox Mode 
+   
+  1) Get the client Id and client Secret from sandbox accounts of the business (seller account ) to whom you want to pay / send money
+  2) for login sandbox - Sandbox (Fake) login email and password 
+  https://developer.paypal.com/developer/accounts/
+  
+   ![image](https://user-images.githubusercontent.com/54494367/112149587-28132300-8c05-11eb-8491-99687e2f00b7.png)
+  3)  For Credit Card Validation in Sandbox account 
+  https://developer.paypal.com/developer/creditCardGenerator/
+   Create Fake from Paypal and enter the CVV and card Number 
+   4) Now you can get The success reponse object from Paypal
+  
 
    
  Source Video  : https://www.youtube.com/watch?v=GykDyG0ELms
