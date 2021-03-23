@@ -35,8 +35,13 @@
    ![image](https://user-images.githubusercontent.com/54494367/112149587-28132300-8c05-11eb-8491-99687e2f00b7.png)
   3)  For Credit Card Validation in Sandbox account 
   https://developer.paypal.com/developer/creditCardGenerator/
-   Create Fake from Paypal and enter the CVV and card Number 
+   Create Fake from Paypal and Update  the CVV and card Number in Your Paypal Sandbox account . 
    ![image](https://user-images.githubusercontent.com/54494367/112150209-d74ffa00-8c05-11eb-88b0-b5cc817f2d43.png)
+
+ 
+
+
+
 
    4) Now you can get The success reponse object from Paypal
    
