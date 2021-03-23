@@ -10,7 +10,7 @@
     "description":"testing"
     }
       
-     ![image](https://user-images.githubusercontent.com/54494367/112147993-55f76800-8c03-11eb-9c5f-376d33e869c1.png)
+ ![image](https://user-images.githubusercontent.com/54494367/112147993-55f76800-8c03-11eb-9c5f-376d33e869c1.png)
       
   Two Types of Modes in Paypal Integration 
     1) Sandbox (for Testing) 
@@ -36,7 +36,10 @@
   3)  For Credit Card Validation in Sandbox account 
   https://developer.paypal.com/developer/creditCardGenerator/
    Create Fake from Paypal and enter the CVV and card Number 
+   ![image](https://user-images.githubusercontent.com/54494367/112150209-d74ffa00-8c05-11eb-88b0-b5cc817f2d43.png)
+
    4) Now you can get The success reponse object from Paypal
+   
   
 
    
