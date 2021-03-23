@@ -10,7 +10,8 @@
     "description":"testing"
     }
       
- ![image](https://user-images.githubusercontent.com/54494367/112147993-55f76800-8c03-11eb-9c5f-376d33e869c1.png)
+![image](https://user-images.githubusercontent.com/54494367/112153565-67437300-8c09-11eb-8520-416489e58f41.png)
+
       
   Two Types of Modes in Paypal Integration 
     1) Sandbox (for Testing) 
