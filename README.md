@@ -9,7 +9,7 @@
     "intent":"sale",
     "description":"testing"
     }
-      
+      ------------------------------------------------------------------------------------------------------------------------------
  ![image](https://user-images.githubusercontent.com/54494367/112153461-4a0ea480-8c09-11eb-9a13-8c019a7b1edd.png)
 
       
@@ -17,7 +17,7 @@
     1) Sandbox (for Testing) 
     2) Live
     
-   ---   Here I am Using Live mode   ----- 
+ ------------------------------------  ---   Here I am Using Live mode   ----- 
     
  Application Properties : 
  
@@ -27,7 +27,7 @@
  paypal.client.secret=  
 
  
-   // Sandbox Mode 
+   ------------------------------------------------------------------------------ for Sandbox Mode -------------------------------
    
   1) Get the client Id and client Secret from sandbox accounts of the business (seller account ) to whom you want to pay / send money
   2) for login sandbox - Sandbox (Fake) login email and password 
@@ -42,12 +42,9 @@
 ![image](https://user-images.githubusercontent.com/54494367/112152895-c6ed4e80-8c08-11eb-9f46-4a1d7913b2f7.png)
 
 
- 
+  4) Now you can get The success reponse object from Paypal
 
-
-
- 4) Now you can get The success reponse object from Paypal
-   
+----------------------------------------------------
 Live Mode:
   In aplication Properties change to Live Mode 
 
